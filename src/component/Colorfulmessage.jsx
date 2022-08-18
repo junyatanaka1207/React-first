@@ -8,6 +8,7 @@ const ColorfulMessage = (props) => {
   const contentStyle2 = {
     color: props.color,
     //分割代入した場合
+    //color,　のみでOK
     fontSize: "18px"
   };
 
